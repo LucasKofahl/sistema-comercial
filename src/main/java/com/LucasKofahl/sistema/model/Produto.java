@@ -20,9 +20,6 @@ public class Produto {
     private Integer quantidadeEstoque;
     private String categoria;
 
-    // --- GETTERS E SETTERS ---
-    // (O VS Code pode gerar automaticamente para você, mas pode colar estes abaixo por enquanto)
-
     public Long getId() {
         return id;
     }
